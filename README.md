@@ -48,3 +48,6 @@ Intel Core i7-13620H
 
 MIT
 
+\## Reproducibility
+
+The provided datasets and figures support the results reported in the paper. Hardware and Unity version details are included to help reproduce the experiments.
