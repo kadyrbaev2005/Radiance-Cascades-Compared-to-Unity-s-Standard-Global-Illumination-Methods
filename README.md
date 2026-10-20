@@ -40,6 +40,14 @@ NVIDIA RTX 4060 Laptop GPU
 
 Intel Core i7-13620H
 
+## Methods Compared
+
+This study evaluates Radiance Cascades against Unity’s standard global illumination methods in the Universal Render Pipeline (URP), focusing on two aspects:
+
+- **Performance:** Frames per second (FPS) and frame time.
+- **Visual Quality:** Rendered output and visual differences between the evaluated methods.
+
+The experimental datasets and comparison video provide supporting material for analyzing performance and visual results.
 
 
 \## License
@@ -47,4 +55,5 @@ Intel Core i7-13620H
 
 
 MIT
+
 
